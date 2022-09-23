@@ -9,3 +9,5 @@
 ## Horizontal Rules
 
 **This is bold text**
+
+theme: minima
