@@ -1,13 +1,17 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Portal
+#### Hua-Ke (Kate) Chi
+Current location: Boston, MA
 
+Education:
+*M.A., Economics, Boston University (Expected 2023) / B.A., Economics, The George Washington University (2019)*
 
-## Horizontal Rules
+Research interests include: 
+- Net-zero pathways
+- Climate adaptation
+- Environmental justice
+- Coal-fired power plants
+- Energy & environmental economics
 
-**This is bold text**
+Link to my [Google Site] (https://sites.google.com/bu.edu/katechi/home?authuser=0)
 
-theme: minima
+You can contact me at: kchi@bu.edu
