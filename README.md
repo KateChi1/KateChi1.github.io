@@ -12,6 +12,6 @@ Research interests include:
 - Coal-fired power plants
 - Energy & environmental economics
 
-Link to my [Google Site] (https://sites.google.com/bu.edu/katechi/home?authuser=0)
+Link to my [Google Site](https://sites.google.com/bu.edu/katechi/home?authuser=0)
 
 You can contact me at: kchi@bu.edu
