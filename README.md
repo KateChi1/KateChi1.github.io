@@ -8,7 +8,7 @@ Education:
 Research interests include: 
 - Energy & environmental economics
 - Net-zero pathways
-- Climate resilience & adaptation
+- Climate policy
 - Environmental justice
 - Coal-fired power plants
 
