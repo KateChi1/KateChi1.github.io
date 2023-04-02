@@ -3,20 +3,19 @@
 Current location: Boston, MA
 
 Education:
-*M.A., Economics, Boston University (Expected 2023) / BBA., Business/Economics, The George Washington University (2019)*
+M.A., Economics, Boston University (2023) //
+BBA., Business & Economics, The George Washington University (2019)
 
 Research interests include: 
 - Energy & environmental economics
 - Net-zero pathways
-- Climate policy
-- Environmental justice
 - Coal-fired power plants
 - Development finance & debt distress in the Global South
 
 Questions I am currently exploring:
-Energy transition: how can developed nations accelerate fossil fuel phase-out, and what are the strategies in developing states?
-How do developing nations achieve low-carbon growth as energy security and sovereign debt sustainability hinge on negotiations with major creditors such as the United States and China?
-Social cost of carbon: what has been achieved and what is neccessary to realize effective carbon tax?
+Energy transition: "how can developed nations accelerate fossil fuel phase-out, and what are the strategies in developing states?
+How do developing nations achieve low-carbon growth as energy security and sovereign debt sustainability hinge on negotiations with major creditors such as the United States and China?"
+Social cost of carbon: "what has been achieved and what is neccessary to realize effective carbon tax?"
 
 Selected papers:
 1. “Decoding Economic Growth in the Lao People’s Democratic Republic: A Development Accounting Approach" (Graduate Economics Course: Development Economics) [Development Economics Final Paper_Chi.pdf](https://github.com/KateChi1/KateChi1.github.io/files/10716837/Development.Economics.Final.Paper_Chi.pdf)
